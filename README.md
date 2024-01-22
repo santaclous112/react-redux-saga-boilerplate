@@ -1,5 +1,5 @@
 # React-Redux-Saga Boilerplate
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/085d871cd62fe4435865/maintainability)](https://codeclimate.com/github/manuelbieh/react-ssr-setup/maintainability)
 ### Provides
 
 - react ^17.x
@@ -44,3 +44,5 @@
 - cypress 6.x
 
 `npm run test:e2e`
+
+### Contacts
