@@ -1,7 +1,7 @@
 # React-Redux-Saga Boilerplate
-[![Maintainability](https://api.codeclimate.com/v1/badges/085d871cd62fe4435865/maintainability)](https://codeclimate.com/github/manuelbieh/react-ssr-setup/maintainability)
-### Provides
 
+### Provides
+z
 - react ^17.x
 - React-router-dom 5.x
 - react-helmet-async 1.x
@@ -46,3 +46,13 @@
 `npm run test:e2e`
 
 ### Contacts
+
+
+![Gmail](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
+        santaclous112@gmail.com
+
+![Skype](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
+        live:.cid.772f958a47f37977
+
+![Telegram](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
+        PeaceStar01
